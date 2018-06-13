@@ -65,7 +65,6 @@
  * @see template_process()
  */
 ?>
-<link href="https://fonts.googleapis.com/css?family=Heebo:500,800,900|Lato:400,400i,700" rel="stylesheet">
 <style>
 body{
   -webkit-font-smoothing: antialiased;
